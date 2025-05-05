@@ -15,7 +15,10 @@ h2 {
     margin-bottom: 2rem;
 }
 
-div > button {
+
+
+/* Button */
+.btn-content{
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -24,7 +27,7 @@ div > button {
     cursor: pointer;
 }
 
-div > button:hover {
+.btn-content:hover {
     background-color: #57534E;
     color: #f5f5f4;
 }
@@ -100,4 +103,30 @@ textarea, input {
 textarea:focus, input:focus{
     outline: none;
     border: 1px solid #57534e;
+}
+
+
+
+/* NoProjectSelected */
+.noproject-container {
+    margin-top: 4rem;
+    text-align: center;
+    width: 60%;
+}
+
+.noproject-container img {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin: auto;
+}
+
+.noproject-container h2 {
+    font-weight: bolder;
+    margin: 1rem 0;
+    color: #78716c;
+}
+
+.noproject-container > p {
+    margin-bottom: 2rem;
+    color: #a8a29e;
 }
