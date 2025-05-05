@@ -1,5 +1,6 @@
 import NewProject from './NewProject.jsx'
 import '../index.css'
+import Button from './Button.jsx'
 
 function SideBar(){
 
@@ -7,7 +8,7 @@ function SideBar(){
         <aside>
             <h2>YOUR PROJECTS</h2>
             <div>
-                <button>+ Add Project</button>
+                <Button>+ Add Project</Button>
             </div>
 
             <ul>
