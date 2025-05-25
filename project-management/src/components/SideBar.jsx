@@ -2,13 +2,13 @@ import NewProject from './NewProject.jsx'
 import '../index.css'
 import Button from './Button.jsx'
 
-function SideBar(){
+function SideBar({onStartAddProject}){
 
     return (
         <aside>
             <h2>YOUR PROJECTS</h2>
             <div>
-                <Button>+ Add Project</Button>
+                <Button onClick={onStartAddProject}>+ Add Project</Button>
             </div>
 
             <ul>
