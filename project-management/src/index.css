@@ -3,7 +3,7 @@
 /*Sidebar*/
 aside {
     font-family: "Roboto", sans-serif;
-    background-color: black;
+    background-color: #000;
     padding: 3rem 2rem;
     width: 20%;
     height: 100vh;
@@ -11,8 +11,28 @@ aside {
 }
 
 h2 {
-    color: white;
+    color: #fff;
     margin-bottom: 2rem;
+}
+
+.sidebar-list {
+    margin-top: 2rem;
+}
+
+.sidebar-btn {
+    all: unset;
+    width: 100%;
+    text-align: left;
+    padding: 0.5rem 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    color: #a8a29e;
+    cursor: pointer;
+}
+
+.sidebar-btn:hover {
+    background-color: #292524;
+    color: #e7e5e4;
 }
 
 

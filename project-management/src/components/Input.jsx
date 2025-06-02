@@ -1,12 +1,13 @@
-import '../index.css'
+import { forwardRef } from 'react';
+import '../index.css';
 
-function Input({label, textarea, ...props}){
+const Input = forwardRef(function Input({label, textarea, ...props}, ref){
     return (
         <p>
             <label>{label}</label>
-            {textarea ? <textarea {...props}/> : <input {...props}/>}
+            {textarea ? <textarea ref={ref} {...props}/> : <input ref={ref} {...props}/>}
         </p>
     )
-}
+});
 
 export default Input
