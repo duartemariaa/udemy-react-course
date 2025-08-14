@@ -5,7 +5,7 @@ import Button from './Button.jsx'
 function SideBar({onStartAddProject, projects}){
     return (
         <aside>
-            <h2>YOUR PROJECTS</h2>
+            <h2 className="sidebar-title">YOUR PROJECTS</h2>
             <div>
                 <Button onClick={onStartAddProject}>+ Add Project</Button>
             </div>
