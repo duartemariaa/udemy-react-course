@@ -2,7 +2,7 @@ import NewProject from './NewProject.jsx'
 import '../index.css'
 import Button from './Button.jsx'
 
-function SideBar({onStartAddProject, projects}){
+function SideBar({onStartAddProject, projects, onSelectProject, selectedProjecId}){
     return (
         <aside>
             <h2 className="sidebar-title">YOUR PROJECTS</h2>
@@ -10,11 +10,17 @@ function SideBar({onStartAddProject, projects}){
                 <Button onClick={onStartAddProject}>+ Add Project</Button>
             </div>
             <ul className="sidebar-list">
-                {projects.map((project) => (
-                    <li key={project.id}>
-                        <button className="sidebar-btn">{project.title}</button>
-                    </li>
-                ))}
+                {/* if(project.id === selectedProjecId){
+
+                } */}
+
+                {projects.map((project) => {
+                    return (
+                        <li key={project.id}>
+                            <button className="sidebar-btn" onClick={() => onSelectProject(project.id)}>{project.title}</button>
+                        </li>
+                    );
+                })}
             </ul>
         </aside>
     )
