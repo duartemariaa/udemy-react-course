@@ -3,16 +3,20 @@
 
 ## Investment Calculator
 <div>
-  <img src="https://github.com/user-attachments/assets/99fead08-568d-42b8-96f5-23a2bc247d3f">
+  <img width="400" src="https://github.com/user-attachments/assets/99fead08-568d-42b8-96f5-23a2bc247d3f">
 </div>
 
 ## Styled Components and Tailwind 
 <div>
-  <img src="https://github.com/user-attachments/assets/2ee345aa-8ee6-4b7c-95e9-ee2b7ecf47db">
+  <img width="400" src="https://github.com/user-attachments/assets/2ee345aa-8ee6-4b7c-95e9-ee2b7ecf47db">
 </div>
 
 ## Timer Challenge 
 <div>
-  <img src="https://github.com/user-attachments/assets/a2b17d77-f48a-46c4-8a9d-102f4470579c">
+  <img width="400" src="https://github.com/user-attachments/assets/a2b17d77-f48a-46c4-8a9d-102f4470579c">
 </div>
 
+## Project management
+<div>
+  <img width="500" src="https://github.com/user-attachments/assets/8455da14-ec1d-4eec-803b-5e0de0a69e2f">
+</div>
