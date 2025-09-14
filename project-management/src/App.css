@@ -8,4 +8,5 @@ main {
     padding-top: 30px;
     display: flex;
     gap: 2rem;
+    font-family: "Roboto", sans-serif;
 }
