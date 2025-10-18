@@ -20,3 +20,8 @@
 <div>
   <img width="500" src="https://github.com/user-attachments/assets/8455da14-ec1d-4eec-803b-5e0de0a69e2f">
 </div>
+
+## Shopping
+<div>
+  <img width="500" src="https://github.com/user-attachments/assets/9c5ffb17-bbe4-4070-a76e-d17a4c904a59">
+</div>
