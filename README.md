@@ -31,4 +31,9 @@
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/4bf5fc7f-fc96-40d2-858f-e60afa4eadc7" />
 </div>
 
+## Quiz 
+<div>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/f1a77c85-0e24-4495-8ec3-eadee7f724b1" />
+</div>
+
 
