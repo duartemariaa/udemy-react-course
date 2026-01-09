@@ -36,4 +36,9 @@
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/f1a77c85-0e24-4495-8ec3-eadee7f724b1" />
 </div>
 
+## Counter 
+<div>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea246923-bb81-4b6c-b779-8dbcabe969be" />
+</div>
+
 
